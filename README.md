@@ -1,4 +1,4 @@
-# social distance monitoring system for covid 19
+# social distance monitoring system 
 ## Abstract
 Recently, the outbreak of Coronavirus Disease (COVID-19) has spread rapidly across
 the world and thus social distancing has become one of mandatory preventive
